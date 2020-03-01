@@ -1,0 +1,56 @@
+***************************************************************************************************
+*** 
+*** This is a custom banner
+*** 
+***************************************************************************************************
+*** 
+*** Module Name          : FrontEndDriver
+*** Project Name         : cchome1
+*** Version              : 1.0.0
+*** Configured Timezone  : UTC
+*** 
+***************************************************************************************************
+*** 
+*** Log Number           : #1
+*** Process Start Time   : 2/26/2020, 1:30:43 PM
+*** Log Start Time       : 2/26/2020, 1:30:43 PM
+*** Log Level            : 0
+*** Continuing From      : FrontEndDriver.12428.1582721766586.log
+*** 
+***************************************************************************************************
+*** 
+*** Hostname             : EN1210049
+*** OS Release           : 10.0.17763
+*** Platform             : win32
+*** NodeJS Version       : 12.13.1
+*** OpenSSL Version      : 1.1.1d
+*** 
+***************************************************************************************************
+*** 
+*** DEPENDENT NPM PACKAGE DETAILS
+*** 
+*** cchome1@1.0.0 D:\dgligaPC\projects\nodejsproj\cchome1
+*** +-- babel-install@2.1.0
+*** +-- express@4.17.1
+*** +-- express-async-await@1.1.0
+*** +-- express-handlebars@3.1.0
+*** +-- mustache@4.0.0
+*** +-- mustache-express@1.3.0
+*** +-- node-fetch@2.6.0
+*** +-- nodemon@2.0.2
+*** +-- open@7.0.2
+*** +-- path@0.12.7
+*** +-- perfect-logger@2.0.1
+*** `-- terminal-link@2.1.1
+*** 
+*** 
+***************************************************************************************************
+2020/02/26 | 13:30:58 | INFO | [GET] ON :/ex1
+2020/02/26 | 13:30:59 | INFO | Try to fetch:https://api.github.com/users
+2020/02/26 | 13:30:59 | INFO | Fetch successfully with status :200, statusText:OK wit time:904
+2020/02/26 | 13:30:59 | INFO | Try to fetch:https://api.chucknorris.io/jokes/random
+2020/02/26 | 13:31:00 | INFO | Fetch successfully with status :200, statusText:OK wit time:453
+2020/02/26 | 13:31:00 | INFO | Try to fetch:https://restcountries.eu/rest/v2/name/uni
+2020/02/26 | 13:31:00 | INFO | Fetch successfully with status :200, statusText:OK wit time:242
+2020/02/26 | 13:31:04 | INFO | [GET] ON :/favicon.ico
+2020/02/26 | 13:31:04 | INFO | [GET] ON :/favicon.ico [ERROR - 404 Page Not Found] 

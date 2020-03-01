@@ -1,0 +1,11 @@
+config:
+  target: http://localhost:5000/
+  phases:
+    - duration: 6
+      arrivalRate: 2
+  defaults:
+    headers:
+scenarios:
+  - flow:
+      - get:
+          url: "/"
